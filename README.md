@@ -17,7 +17,7 @@ Adds an overworld fly animation like in Fire Red and Leaf Green.
 
 <br>
 
-[Download instructions](https://github.com/MickTK/Pokemon-Essentials-Plugins/blob/main/Download%20instructions.md)
+Installation: [instructions](https://github.com/MickTK/Pokemon-Essentials-Plugins/wiki/Instructions).
 
 Fork from [Fly Pokeball Animation](https://github.com/bo4p5687/PE-Custom-Script/tree/master/Fly%20Pokeball%20Animation).
 

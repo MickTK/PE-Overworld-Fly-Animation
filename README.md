@@ -1,24 +1,15 @@
-![Essentials](https://badgen.net/badge/Essentials/20.1/orange)
-![Version](https://badgen.net/badge/Version/1.0.0/cyan)
-
-<p align="center">
-<img width="200px" src="https://user-images.githubusercontent.com/63038410/181026119-7065d9fd-01d3-401a-b161-59ce55106888.png">
-</p>
+![Essentials](https://badgen.net/badge/Essentials/21.1/orange)
+![Version](https://badgen.net/badge/Version/1.1.0/cyan)
 
 <h1 align="center">Overworld Fly Animation</h1>
 
 <p align="center">
-Adds an overworld fly animation like in Fire Red and Leaf Green.
+<img width="450px" src="https://gist.github.com/assets/63038410/a7ce72cb-7586-4b4d-8597-686f80f6cadb">
 </p>
 
-<div align="center">
-  <img width="450px" src="https://github.com/MickTK/Pokemon-Essentials-Plugins/assets/63038410/00351f7c-f9c8-4334-b427-1b38358955a8">
-</div>
+## Overview
+- Show the fly animation in the overworld
 
 <br>
 
-Installation: [instructions](https://github.com/MickTK/Pokemon-Essentials-Plugins/wiki/Instructions).
-
-Fork from [Fly Pokeball Animation](https://github.com/bo4p5687/PE-Custom-Script/tree/master/Fly%20Pokeball%20Animation).
-
-Credits to [KleinStudio](https://www.deviantart.com/kleinstudio), [Ulithium_Dragon](https://www.pokecommunity.com/member.php?u=531836) and [bo4p5687](https://reliccastle.com/members/7526/).
+<a href="https://github.com/MickTK/PE-Overworld-Fly-Animation"><img width="25px" src="https://user-images.githubusercontent.com/63038410/277105894-4c82662e-5d30-4d2f-b2bc-4a73fc8a1837.png"></a>

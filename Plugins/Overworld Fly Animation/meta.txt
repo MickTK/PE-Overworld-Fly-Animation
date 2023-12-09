@@ -1,5 +1,5 @@
 Name       = Overworld Fly Animation
-Version    = 1.0.0
-Essentials = 20.1
-Website    = github.com/MickTK/Pokemon-Essentials-Plugins
+Version    = 1.1.0
+Essentials = 21.1
+Website    = github.com/MickTK/PE-Overworld-Fly-Animation
 Credits    = KleinStudio, Ulithium_Dragon, bo4p5687, MickTK

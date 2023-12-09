@@ -18,6 +18,6 @@ class OverworldFlyAnimation
     ]
   ]
 
-  @@character_bird = "flyBird" # Bird character "Graphics/Pictures/"
-  @@se_bird = "Fly bird"       # Bird sound effect "Audio/SE/"
+  CHARACTER_BIRD = "flyBird" # Bird character "Graphics/Pictures/"
+  SE_BIRD = "Fly bird"       # Bird sound effect "Audio/SE/"
 end
